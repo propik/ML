@@ -1,1 +1,2 @@
-# MachineLEarning
+# MachineLearning
+Course project work
